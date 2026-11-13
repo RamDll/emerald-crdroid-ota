@@ -8,7 +8,7 @@ Redmi Note 13 Pro 4G) reads, plus the release assets it points to.
   `crdroidandroid/android_vendor_crDroidOTA/17.0/emerald.json` does not exist for this device).
 - The JSON lists the builds of this line newest first; each entry carries the OTA zip in the release
   assets of the matching tag.
-- Written by `scripts/ota-server` of the build repository (`RamDll/emerald-crdroid`).
+- Written by `scripts/ota-server` of the build repository (`emerald-crdroid13/emerald-crdroid`).
 
 This is not an official crDroid build: updates come only from here, and installing anything else
 over it needs a full flash. The LineageOS line of the same device publishes elsewhere
