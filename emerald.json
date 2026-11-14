@@ -1,0 +1,19 @@
+{
+    "response": [
+        {
+            "maintainer": "RamDll",
+            "oem": "Xiaomi",
+            "device": "POCO M6 Pro 4G / Redmi Note 13 Pro 4G (emerald)",
+            "filename": "crdroid-17.0-C1.2-emerald-signed-ota.zip",
+            "download": "https://github.com/RamDll/emerald-crdroid-ota/releases/download/C1.2/crdroid-17.0-C1.2-emerald-signed-ota.zip",
+            "timestamp": 1794634002,
+            "sha256": "3a5470d0b53c9ecce29253a1cb024d7f6f092ce28ecf4a778ecec822d454a4d4",
+            "size": 1921939239,
+            "version": "13.1 (C1.2)",
+            "os_patch_level": "2026-11-01",
+            "os_sdk_level": 37,
+            "buildtype": "UNOFFICIAL",
+            "ota_property_files": "payload_metadata.bin:3801:165812,payload.bin:3801:1921932367,payload_properties.txt:1921936226:156,apex_info.pb:1826:1448,care_map.pb:3321:433,metadata:69:691,metadata.pb:828:950"
+        }
+    ]
+}
