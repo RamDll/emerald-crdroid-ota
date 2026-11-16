@@ -3,7 +3,7 @@
         {
             "maintainer": "RamDll",
             "oem": "Xiaomi",
-            "device": "POCO M6 Pro 4G / Redmi Note 13 Pro 4G (emerald)",
+            "device": "emerald",
             "filename": "crdroid-17.0-C1.4-emerald-signed-ota.zip",
             "download": "https://github.com/RamDll/emerald-crdroid-ota/releases/download/C1.4/crdroid-17.0-C1.4-emerald-signed-ota.zip",
             "timestamp": 1794807872,
