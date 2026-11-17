@@ -4,16 +4,16 @@
             "maintainer": "RamDll",
             "oem": "Xiaomi",
             "device": "emerald",
-            "filename": "crdroid-17.0-C1.4-emerald-signed-ota.zip",
-            "download": "https://github.com/RamDll/emerald-crdroid-ota/releases/download/C1.4/crdroid-17.0-C1.4-emerald-signed-ota.zip",
-            "timestamp": 1794807872,
-            "sha256": "74117871069074a8654e370fc358976cfd1f177c54e00944f9da43de67693e9f",
-            "size": 1926659022,
-            "version": "13.1 (C1.4)",
+            "filename": "crdroid-17.0-C1.5-emerald-signed-ota.zip",
+            "download": "https://github.com/RamDll/emerald-crdroid-ota/releases/download/C1.5/crdroid-17.0-C1.5-emerald-signed-ota.zip",
+            "timestamp": 1794851618,
+            "sha256": "5e9d0f213d806831d6fa6d06010d3a202780c3627e7423c06917f8f46c4d7a12",
+            "size": 1933509638,
+            "version": "13.1 (C1.5)",
             "os_patch_level": "2026-11-01",
             "os_sdk_level": 37,
             "buildtype": "UNOFFICIAL",
-            "ota_property_files": "payload_metadata.bin:3801:166094,payload.bin:3801:1926652150,payload_properties.txt:1926656009:156,apex_info.pb:1826:1448,care_map.pb:3321:433,metadata:69:691,metadata.pb:828:950"
+            "ota_property_files": "payload_metadata.bin:3801:166610,payload.bin:3801:1933502766,payload_properties.txt:1933506625:156,apex_info.pb:1826:1448,care_map.pb:3321:433,metadata:69:691,metadata.pb:828:950"
         }
     ]
 }
